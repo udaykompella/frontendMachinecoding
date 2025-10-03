@@ -19,3 +19,8 @@ p {
   top: 5px;
   z-index: 40;
 }
+.timer{
+  color: grey;
+ border-radius: 5px;
+ 
+}
